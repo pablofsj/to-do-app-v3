@@ -1,0 +1,45 @@
+h2 {
+    background: linear-gradient(0deg, rgba(204,203,203,1) 17%, rgba(241,220,220,1) 51%, rgba(219,213,213,1) 70%);
+    
+
+
+
+}
+
+#textarea {
+    overflow-y: scroll;
+    width: 330px;
+    height: 100px;
+    resize: none;
+    display: block; 
+}
+
+button {
+    display: block;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+}
+
+
+
+p {
+    margin: 2px;
+}
+
+#listado {
+    border: 1px solid gray;
+    width: 330px;
+    height: 200px;
+    overflow-y: scroll;
+    margin-top: 10px;
+}
+
+li {
+    border: 0.5px solid black;
+    background: linear-gradient(0deg, rgba(204,203,203,1) 17%, rgba(241,220,220,1) 51%, rgba(219,213,213,1) 70%);
+    list-style: none;
+    
+    
+}
+
